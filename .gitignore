@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Environments
+.venv/
+venv/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data artifacts (raw datasets)
+data/
+
+
+# Logs
+*.log
